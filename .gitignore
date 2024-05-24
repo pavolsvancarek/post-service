@@ -31,3 +31,13 @@ build/
 
 ### VS Code ###
 .vscode/
+
+# Ignore common built files
+/build/
+/dist/
+/target/
+/out/
+*.class
+*.o
+*.exe
+*.log
